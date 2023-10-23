@@ -1,0 +1,8 @@
+Korpen Sverige vill att vi ska skapa ett program åt 
+dem så att de kan ha turneringar!
+
+Det finns fotbolls lag som alla ska möta alla i en match!
+
+Det ska finnas ett poängsystem så att den med mest 
+poäng efter att alla spelat sina matcher är vinnaren!
+

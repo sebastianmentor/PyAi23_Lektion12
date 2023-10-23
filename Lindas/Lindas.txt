@@ -1,0 +1,23 @@
+Scenario:
+Du är en programvaruutvecklare och har blivit kontaktad av "Lindas Litterära Lustgård", en liten men populär bokhandel i staden. Ägaren, Linda, är passionerad för böcker men har kämpat med att hålla reda på hennes inventarie i den växande butiken. Hon hörde om dina programmeringsfärdigheter från en gemensam bekant och har nu skickat dig följande e-mail:
+
+Hej [Ditt namn],
+
+Hoppas allt är bra med dig! Jag är ägare till "Lindas Litterära Lustgård" och vi har haft en anmärkningsvärd tillväxt under det senaste året. Med alla dessa böcker som kommer in och går ut, blir det svårt att hålla reda på allt manuellt.
+
+Jag har en vision för hur detta system skulle kunna se ut men har ingen aning om hur man skapar det. Här är vad jag tänker:
+
+En bok: Varje bok har ett unikt namn (titel), en författare, ett pris och en mängd (antal kopior vi har i lager). Jag skulle vilja kunna lägga till en ny bok i systemet med alla dessa uppgifter.
+
+Söka efter böcker: Ofta frågar kunder efter en särskild bok. Jag skulle vilja kunna skriva in bokens titel och snabbt få all information om den, som författare, pris och hur många kopior vi har kvar.
+
+Försäljning: När jag säljer en bok, skulle jag vilja kunna uppdatera antalet kopior vi har kvar. Om en bok säljs ut, skulle det vara bra att få en påminnelse.
+
+Ta bort böcker: Ibland slutar vi sälja vissa titlar. Jag skulle vilja kunna ta bort en bok från systemet helt.
+
+Översikt: Jag skulle också vilja ha en funktion där jag snabbt kan se en lista över alla böcker vi har och deras detaljer.
+
+Med tanke på ovanstående beskrivning, tror du att du kan hjälpa mig att skapa detta system? Låt mig veta kostnaden och tidsramen.
+
+Mvh,
+Linda
